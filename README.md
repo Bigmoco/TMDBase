@@ -16,4 +16,4 @@ https://github.com/jurialmunkey/skin.arctic.fuse.2
 
 https://github.com/a4k-openproject/repository.openwizard?tab=readme-ov-file
 
-DISCLAIMER: This build is based solely around the TMDb Helper addon, no players/addons that infringe on Copyright material are included or linked to in this build :)
+DISCLAIMER: This build is based solely around the TMDb Helper addon, no players/addons that infringe on Copyright material are included or linked to in this build. Also, a Trakt account is needed too :)
