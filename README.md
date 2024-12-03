@@ -18,6 +18,10 @@ https://archive.org/download/tmdbase-1_202412/TMDBase1.zip
 
 If manually installing and not on a PC, use the stock OpenWizard, I could never figure out the Backup addon. You can figure out the rest.
 
+For ratings(IMDb,RT)your need an OMDb Api key, link is below. Just enter the key they email you into the TMDb Helper settings.
+
+https://www.omdbapi.com/apikey.aspx
+
 Let me know if there are any problems.
 
 Credits:
