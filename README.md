@@ -11,4 +11,9 @@ https://archive.org/download/tmdbase-1
 
 If manually installing(not on a PC), use the stock OpenWizard, I could never figure out the Backup addon. 
 
+Credits:
+https://github.com/jurialmunkey/skin.arctic.fuse.2
+
+https://github.com/a4k-openproject/repository.openwizard?tab=readme-ov-file
+
 DISCLAIMER: This build is based solely around the TMDb Helper addon, no players/addons that infringe on Copyright material are included or linked to in this build :)
