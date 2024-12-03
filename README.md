@@ -9,4 +9,4 @@ Let me know if there are any problems.
 
 https://archive.org/download/tmdbase-1
 
-DISCLAIMER: This build is based solely around the TMDb Helper addon, no players/addons that infringe on Copyright material are included in this build :)
+DISCLAIMER: This build is based solely around the TMDb Helper addon, no players/addons that infringe on Copyright material are included or linked to in this build :)
