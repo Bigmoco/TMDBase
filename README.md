@@ -10,7 +10,7 @@ Use the custom version of OpenWizard or manually install using the Archive link,
 - Install in Kodi
 - Click "Continue"
 - Click "Build Menu"
-- Click "**(OpenWizard)** Install"
+- Click "*(OpenWizard)* Install"
 - Click "Yes, Install"
 - Done, let it download and install, then click "OK" to force close Kodi.
 
