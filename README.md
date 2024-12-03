@@ -3,7 +3,7 @@ A Kodi build based around the Artic Fuse 2 skin which is developed by jurialmunk
 
 **Install Instructions:**
 
-Use the edited version of OpenWizard or manually install using the Archive link, both options are below.
+Use the custom version of OpenWizard or manually install using the Archive link, both options are below.
 
 [plugin.program.openwizard.zip](https://github.com/user-attachments/files/17988163/plugin.program.openwizard.zip)
 
@@ -12,7 +12,7 @@ Use the edited version of OpenWizard or manually install using the Archive link,
 - Click "Build Menu"
 - Click "(OpenWizard) Install"
 - Click "Yes, Install"
-- Done, let it download and install, then click "OK" and restart Kodi.
+- Done, let it download and install, then click "OK" to force close Kodi.
 
 https://archive.org/download/tmdbase-1
 
