@@ -14,7 +14,7 @@ Use the custom version of OpenWizard or manually install using the Archive link,
 - Click "Yes, Install"
 - Done, let it download and install, then click "OK" to force close Kodi.
 
-https://archive.org/download/tmdbase-1
+https://archive.org/download/tmdbase-1_202412/TMDBase1.zip
 
 If manually installing and not on a PC, use the stock OpenWizard, I could never figure out the Backup addon. You can figure out the rest.
 
