@@ -7,9 +7,16 @@ Use the edited version of OpenWizard or manually install using the Archive link,
 
 [plugin.program.openwizard.zip](https://github.com/user-attachments/files/17988163/plugin.program.openwizard.zip)
 
+- Install in Kodi
+- Click "Continue"
+- Click "Build Menu"
+- Click "(OpenWizard) Install"
+- Click "Yes, Install"
+- Done, let it download and install, then click "OK" and restart Kodi.
+
 https://archive.org/download/tmdbase-1
 
-If manually installing(not on a PC), use the stock OpenWizard, I could never figure out the Backup addon. 
+If manually installing(not on a PC), use the stock OpenWizard, I could never figure out the Backup addon. You can figure it out.
 
 Let me know if there are any problems.
 
