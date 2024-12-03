@@ -4,7 +4,7 @@ zip="url.to.wizard"
 
 name="TMDBase1"
 version="1.0"
-url="https://raw.githubusercontent.com/Bigmoco/TMDBase/refs/heads/main/builds.txt/"
+url="https://archive.org/download/tmdbase-1/TMDBase1.zip"
 minor="http://"
 gui="https://archive.org/download/tmdbase-1/TMDBase1_guisettings.zip/"
 kodi="20.1"
