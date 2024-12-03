@@ -16,7 +16,7 @@ Use the custom version of OpenWizard or manually install using the Archive link,
 
 https://archive.org/download/tmdbase-1
 
-If manually installing(not on a PC), use the stock OpenWizard, I could never figure out the Backup addon. You can figure it out.
+If manually installing(not on a PC), use the stock OpenWizard, I could never figure out the Backup addon. You can figure it out the rest.
 
 Let me know if there are any problems.
 
