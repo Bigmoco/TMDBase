@@ -1,15 +1,16 @@
 # TMDBase
 A Kodi build based around the Artic Fuse 2 skin which is developed by jurialmunkey
 
-You can either install this build using my edited version of the OpenWizard addon or manually installing using the Archive link, dealers choice.
-
-Let me know if there are any problems.
+Install Instructions:
+Use the edited version of OpenWizard or manually installing using the Archive link, dealers choice, both options are below.
 
 [plugin.program.openwizard.zip](https://github.com/user-attachments/files/17988163/plugin.program.openwizard.zip)
 
 https://archive.org/download/tmdbase-1
 
 If manually installing(not on a PC), use the stock OpenWizard, I could never figure out the Backup addon. 
+
+Let me know if there are any problems.
 
 Credits:
 https://github.com/jurialmunkey/skin.arctic.fuse.2
