@@ -1,7 +1,7 @@
 # TMDBase
 A Kodi build based around the Artic Fuse 2 skin which is developed by jurialmunkey
 
-Install Instructions:
+**Install Instructions:**
 
 Use the edited version of OpenWizard or manually installing using the Archive link, dealers choice, both options are below.
 
