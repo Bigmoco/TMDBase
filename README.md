@@ -3,7 +3,7 @@ A Kodi build based around the Arctic Fuse 2 skin which is developed by jurialmun
 
 **Install Instructions:**
 
-Use the custom version of OpenWizard or manually install using the Archive link, both options are below.
+Use the custom version of OpenWizard or manually install using the Dropbox link, both options are below.
 
 [plugin.program.openwizard.zip](https://github.com/user-attachments/files/17988163/plugin.program.openwizard.zip)
 
@@ -14,13 +14,13 @@ Use the custom version of OpenWizard or manually install using the Archive link,
 - Click "Yes, Install"
 - Done, let it download and install, then click "OK" to force close Kodi.
 
-https://archive.org/download/tmdbase-1_202412/TMDBase1.zip
+[Dropbox](https://www.dropbox.com/scl/fo/ipw3thwlx51wipk9ukjqc/ALoQzxx_x0dVnz4PGtwYlP8?rlkey=93q95z0wnqdriqxseldsutmpy&st=5a6ctgqt&dl=1)
 
 If manually installing and not on a PC, use the stock OpenWizard, I could never figure out the Backup addon. You can figure out the rest.
 
 For Ratings (IMDb,RT) you need an OMDb API Key, link is below. Just enter the key they email you into the TMDb Helper settings.
 
-https://www.omdbapi.com/apikey.aspx
+[OMDb API Key](https://www.omdbapi.com/apikey.aspx)
 
 Let me know if there are any problems.
 
@@ -31,4 +31,4 @@ https://github.com/a4k-openproject/repository.openwizard?tab=readme-ov-file
 
 DISCLAIMER: This build is based solely around the TMDb Helper addon, no players/addons that infringe on Copyright material are included or linked to in this build. 
 
-Also, a Trakt account is needed too :)
+Also, a [Trakt](https://trakt.tv/auth/join) account is needed too :)
