@@ -3,7 +3,7 @@ version="2.0.7"
 zip="url.to.wizard"
 
 name="TMDBase"
-version="1.1"
+version="1.0"
 url="https://www.dropbox.com/scl/fi/cfxrnd5p8defb4wruuqnp/TMDbase1.zip?rlkey=ygax1cyxfa5ibu2jydgyz2akw&st=gp1d38hn&dl=1"
 minor="http://"
 gui="https://www.dropbox.com/scl/fi/0i4nq3wll2yl9c93xpy6l/TMDbase1_guisettings.zip?rlkey=uiqqp61im6uc7fczn2csi4q1d&st=9svdonaa&dl=1"
