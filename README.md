@@ -16,7 +16,7 @@ Use the custom version of OpenWizard or manually install using the Dropbox link,
 
 [Dropbox](https://www.dropbox.com/scl/fo/ipw3thwlx51wipk9ukjqc/ALoQzxx_x0dVnz4PGtwYlP8?rlkey=93q95z0wnqdriqxseldsutmpy&st=5a6ctgqt&dl=1)
 
-If manually installing and not on a PC, use the stock OpenWizard, I could never figure out the Backup addon. You can figure out the rest.
+If manually installing and not on a PC, unzip and use the stock OpenWizard, I could never figure out the Backup addon. You can figure out the rest.
 
 For Ratings (IMDb,RT) you need an OMDb API Key, link is below. Just enter the key they email you into the TMDb Helper settings.
 
