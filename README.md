@@ -11,7 +11,7 @@ Use the custom version of OpenWizard or manually install using the Dropbox link,
 - Install in Kodi
 - Click "Continue"
 - Click "Build Menu"
-- Click "*(Moco Wizard)* Install"
+- Click "*(OpenWizard)* Install"
 - Click "Yes, Install"
 - Done, let it download and install, then click "OK" to force close Kodi.
 
