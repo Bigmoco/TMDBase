@@ -3,9 +3,9 @@ A Kodi build based around the Arctic Fuse 2 skin which is developed by jurialmun
 
 **Install Instructions:**
 
-Use the custom version of OpenWizard or manually install using the Dropbox link, both options are below.
+Use my Wizard or manually install using the Dropbox link, both options are below.
 
-[plugin.program.openwizard.zip](https://github.com/user-attachments/files/17988163/plugin.program.openwizard.zip)
+[plugin.program.mc.zip](https://github.com/Bigmoco/TMDBase/raw/refs/heads/main/plugin.program.mw.zip)
 
 - Install in Kodi
 - Click "Continue"
@@ -14,7 +14,7 @@ Use the custom version of OpenWizard or manually install using the Dropbox link,
 - Click "Yes, Install"
 - Done, let it download and install, then click "OK" to force close Kodi.
 
-[Dropbox](https://www.dropbox.com/scl/fo/ipw3thwlx51wipk9ukjqc/ALoQzxx_x0dVnz4PGtwYlP8?rlkey=93q95z0wnqdriqxseldsutmpy&st=5a6ctgqt&dl=1)
+[Dropbox](https://www.dropbox.com/scl/fo/ytfek2e65vpr7kn7cz1uz/AJbrc8y2KmP9m2BnQplOiMI?rlkey=t34o5n1v7g0tu0k3r982ex3db&st=hlvw6f7a&dl=1)
 
 If manually installing and not on a PC, unzip and use the stock OpenWizard, I could never figure out the Backup addon. You can figure out the rest.
 
