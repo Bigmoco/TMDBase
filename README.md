@@ -7,7 +7,9 @@ Use my Wizard or manually install using the Dropbox link, both options are below
 
 [plugin.program.mc.zip](https://github.com/Bigmoco/TMDBase/raw/refs/heads/main/plugin.program.mw.zip)
 
+
 - Install in Kodi
+- [OPTIONAL/UPDATES](https://imgur.com/a/9wFvTzU) 
 - Click "Continue"
 - Click "Build Menu"
 - Click "*(Moco Wizard)* Install"
