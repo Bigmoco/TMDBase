@@ -10,7 +10,7 @@ Use my Wizard or manually install using the Dropbox link, both options are below
 - Install in Kodi
 - Click "Continue"
 - Click "Build Menu"
-- Click "*(OpenWizard)* Install"
+- Click "*(Moco Wizard)* Install"
 - Click "Yes, Install"
 - Done, let it download and install, then click "OK" to force close Kodi.
 
