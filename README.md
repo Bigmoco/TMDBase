@@ -3,20 +3,19 @@ A Kodi build based around the Arctic Fuse 2 skin which is developed by jurialmun
 
 **Install Instructions:**
 
-Use my Wizard or manually install using the Dropbox link, both options are below.
+Use the custom version of OpenWizard or manually install using the Dropbox link, both options are below.
 
-[plugin.program.mc.zip](https://github.com/Bigmoco/TMDBase/raw/refs/heads/main/plugin.program.mw.zip)
+[plugin.program.openwizard.zip](https://github.com/user-attachments/files/17988163/plugin.program.openwizard.zip)
 
 
 - Install in Kodi
-- [OPTIONAL/UPDATES](https://imgur.com/a/9wFvTzU) 
 - Click "Continue"
 - Click "Build Menu"
 - Click "*(Moco Wizard)* Install"
 - Click "Yes, Install"
 - Done, let it download and install, then click "OK" to force close Kodi.
 
-[Dropbox](https://www.dropbox.com/scl/fo/ytfek2e65vpr7kn7cz1uz/AJbrc8y2KmP9m2BnQplOiMI?rlkey=t34o5n1v7g0tu0k3r982ex3db&st=hlvw6f7a&dl=1)
+[Dropbox](https://www.dropbox.com/scl/fo/q4ped8gjdbvb61uoytpj8/AP-2MkeCrWquC4hhnuWpct8?rlkey=3dmnyg8ziy73mzdqdygqrydno&st=5kdaze1n&dl=1)
 
 If manually installing and not on a PC, unzip and use the stock OpenWizard, I could never figure out the Backup addon. You can figure out the rest.
 
