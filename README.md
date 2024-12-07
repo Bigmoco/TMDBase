@@ -24,9 +24,9 @@ If manually installing and not on a PC, unzip and use the stock **[OpenWizard](h
 
 For Ratings (IMDb,RT) you need an **[OMDb API Key](https://www.omdbapi.com/apikey.aspx)**. Just enter the key they email you into the TMDb Helper settings.
 
-Let me know if there are any problems.
+A **[Trakt](https://trakt.tv/auth/join)** account is needed too; reload skin after activating. Also, I recommend **[A4K](https://github.com/a4k-openproject/a4kSubtitles)** for subtitle support.
 
-A **[Trakt](https://trakt.tv/auth/join)** account is needed too; reload skin after activating. Also, I recommend **[A4K](https://github.com/a4k-openproject/a4kSubtitles)** for subtitle support:)
+Let me know if there are any problems :)
 
 **Credits:
 https://github.com/jurialmunkey/skin.arctic.fuse.2**
