@@ -35,4 +35,4 @@ https://github.com/a4k-openproject/repository.openwizard?tab=readme-ov-file
 
 DISCLAIMER: This build is based solely around the TMDb Helper addon, no players/addons that infringe on Copyright material are included or linked to in this build. 
 
-Also, a [Trakt](https://trakt.tv/auth/join) account is needed too; reload skin after activating :)
+Also, a [Trakt](https://trakt.tv/auth/join) account is needed too; reload skin after activating, also I recommend [A4K](https://github.com/a4k-openproject/a4kSubtitles) for subtitles support:)
