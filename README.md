@@ -37,4 +37,4 @@ A [Trakt](https://trakt.tv/auth/join) account is needed too; reload skin after a
 
 DISCLAIMER: 
 -
-**This build is based solely around the TMDb Helper addon, no players/addons/repos/links that infringe on Copyright material are included or linked to in this build.**
+**This build is based solely around the TMDb Helper addon, no players/addons/repos that infringe on Copyright material are included or linked to in this build.**
