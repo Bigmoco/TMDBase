@@ -22,9 +22,7 @@ Use a custom version of OpenWizard or manually install using one of the Dropbox 
 
 If manually installing and not on a PC, unzip and use the stock OpenWizard, I could never figure out the Backup addon. You can figure out the rest.
 
-For Ratings (IMDb,RT) you need an OMDb API Key, link is below. Just enter the key they email you into the TMDb Helper settings.
-
-[OMDb API Key](https://www.omdbapi.com/apikey.aspx)
+For Ratings (IMDb,RT) you need an [OMDb API Key](https://www.omdbapi.com/apikey.aspx). Just enter the key they email you into the TMDb Helper settings.
 
 Let me know if there are any problems.
 
