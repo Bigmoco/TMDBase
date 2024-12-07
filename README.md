@@ -1,5 +1,5 @@
 # TMDBase
-A Kodi build based around the Arctic Fuse 2 skin which is developed by jurialmunkey
+**A Kodi build based around the Arctic Fuse 2 skin and TMDb Helper, which are developed by [jurialmunkey](https://github.com/jurialmunkey)**
 
 **Install Instructions:**
 ------------------------------------
