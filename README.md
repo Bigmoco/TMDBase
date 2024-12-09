@@ -5,6 +5,11 @@
 ------------------------------------
 Use a custom version of OpenWizard or manually install using one of the Dropbox links, all options are below. 
 
+**<u>Repository</u>** - add in File Manager
+https://bigmoco.github.io/repository.bigmoco/
+
+**<u>Zips</u>** - Install from Zip
+
 **[<u>English Version</u>](https://github.com/user-attachments/files/17988163/plugin.program.openwizard.zip)**
 
 **[<u>Spanish Version</u>](https://github.com/Bigmoco/TMDBase/raw/refs/heads/main/language/es/plugin.program.openwizard.zip)**
