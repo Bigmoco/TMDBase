@@ -6,7 +6,8 @@
 Install using a custom version of OpenWizard or manually install using one of the Dropbox links, all options are below. 
 
 **<u>Repository</u>** - add in File Manager
-https://bigmoco.github.io/repository.bigmoco/
+
+**https://bigmoco.github.io/repository.bigmoco/**
 
 **or**
 
