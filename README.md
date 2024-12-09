@@ -1,33 +1,37 @@
 # TMDBase
 **A Kodi build based around the Arctic Fuse 2 skin and TMDb Helper, which are developed by [jurialmunkey](https://github.com/jurialmunkey)**
 
-**Install Instructions:**
+**Files:**
 ------------------------------------
-Use a custom version of OpenWizard or manually install using one of the Dropbox links, all options are below. 
+Install using a custom version of OpenWizard or manually install using one of the Dropbox links, all options are below. 
 
 **<u>Repository</u>** - add in File Manager
 https://bigmoco.github.io/repository.bigmoco/
 
 **or**
 
-**<u>Zips</u>** - Install from Zip
+**<u>Zips</u>** - Install from zip
 
 **[<u>English Version</u>](https://github.com/user-attachments/files/17988163/plugin.program.openwizard.zip)**
 
 **[<u>Spanish Version</u>](https://github.com/Bigmoco/TMDBase/raw/refs/heads/main/language/es/plugin.program.openwizard.zip)**
 
+**or**
+
+**<u>Dropbox</u>** - Manually install
+
+**[Dropbox - English](https://www.dropbox.com/scl/fo/q4ped8gjdbvb61uoytpj8/AP-2MkeCrWquC4hhnuWpct8?rlkey=3dmnyg8ziy73mzdqdygqrydno&st=5kdaze1n&dl=1)**
+
+**[Dropbox - Spanish](https://www.dropbox.com/scl/fo/zobt1lcflkctoupi9xykh/ADmtZQOgBA7hg5k6qR5lp1Q?rlkey=z96obct1vvhebt9nupvlxv0sc&st=58amsq9d&dl=1)**
+
+**Install Instructions:**
+------------------------------------
 - Install in Kodi
 - Click "Continue"
 - Click "Build Menu"
 - Click "*(OpenWizard)* Install"
 - Click "Yes, Install"
 - Done, let it download and install, then click "OK" to force close Kodi.
-
-**or**
-
-**[Dropbox - English](https://www.dropbox.com/scl/fo/q4ped8gjdbvb61uoytpj8/AP-2MkeCrWquC4hhnuWpct8?rlkey=3dmnyg8ziy73mzdqdygqrydno&st=5kdaze1n&dl=1)**
-
-**[Dropbox - Spanish](https://www.dropbox.com/scl/fo/zobt1lcflkctoupi9xykh/ADmtZQOgBA7hg5k6qR5lp1Q?rlkey=z96obct1vvhebt9nupvlxv0sc&st=58amsq9d&dl=1)**
 
 If manually installing and not on a PC, unzip and use the stock **[OpenWizard](https://a4k-openproject.github.io/repository.openwizard/)**, I could never figure out the Backup addon. You can figure out the rest.
 
