@@ -8,6 +8,8 @@ Use a custom version of OpenWizard or manually install using one of the Dropbox 
 **<u>Repository</u>** - add in File Manager
 https://bigmoco.github.io/repository.bigmoco/
 
+**or**
+
 **<u>Zips</u>** - Install from Zip
 
 **[<u>English Version</u>](https://github.com/user-attachments/files/17988163/plugin.program.openwizard.zip)**
@@ -20,6 +22,8 @@ https://bigmoco.github.io/repository.bigmoco/
 - Click "*(OpenWizard)* Install"
 - Click "Yes, Install"
 - Done, let it download and install, then click "OK" to force close Kodi.
+
+**or**
 
 **[Dropbox - English](https://www.dropbox.com/scl/fo/q4ped8gjdbvb61uoytpj8/AP-2MkeCrWquC4hhnuWpct8?rlkey=3dmnyg8ziy73mzdqdygqrydno&st=5kdaze1n&dl=1)**
 
