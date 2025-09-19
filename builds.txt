@@ -18,7 +18,7 @@ description="An Arctic Fuse build"
 
 name="Bingie Build"
 version="1"
-url="https://www.dropbox.com/scl/fi/yol1ilk8of2gob1gffxt0/bgbase4.zip?rlkey=mwsnkre5oto2b79i06aw7934z&st=3z8e7cr3&dl=1"
+url="https://www.dropbox.com/scl/fi/rq7z4jkc1t9hblrr3aydz/bgbase5.zip?rlkey=7zfskm7zwmvf1o6ukrn3na46c&st=u5w53ank&dl=1"
 minor="http://"
 gui="http://"
 kodi="19.5"
