@@ -42,6 +42,6 @@ fanart="https://i.imgur.com/WsH7tBz.jpeg"
 preview="http://"
 adult="no"
 info="http://"
-description="THIS IS A BETA BUILD RUNNING OFF BINGIE 2.0.0, INSTALL AT OWN RISK"
+description="This is a BETA build running off Bingie 2.0.0, I am still testing it so somethings may be broken or missing. Install with this in mind"
 
 
