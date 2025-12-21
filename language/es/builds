@@ -17,7 +17,7 @@ info="http//"
 description="Una compilación de Kodi basada en el aspecto Arctic Fuse 2 utilizando TMDb Helper como widgets e integración completa con Trakt"
 
 name="Welcome"
-version="1.0"
+version="2.0"
 url="https://"
 minor="http://"
 gui="http://"
