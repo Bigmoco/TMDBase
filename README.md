@@ -15,15 +15,12 @@ Install using a custom version of OpenWizard or manually install using one of th
 
 **[<u>English Version</u>](https://github.com/user-attachments/files/17988163/plugin.program.openwizard.zip)**
 
-**[<u>Spanish Version</u>](https://github.com/Bigmoco/TMDBase/raw/refs/heads/main/language/es/plugin.program.openwizard.zip)**
 
 **or**
 
 **<u>Dropbox</u>** - Manually install
 
 **[Dropbox - English](https://www.dropbox.com/scl/fo/q4ped8gjdbvb61uoytpj8/AP-2MkeCrWquC4hhnuWpct8?rlkey=3dmnyg8ziy73mzdqdygqrydno&st=5kdaze1n&dl=1)**
-
-**[Dropbox - Spanish](https://www.dropbox.com/scl/fo/zobt1lcflkctoupi9xykh/ADmtZQOgBA7hg5k6qR5lp1Q?rlkey=z96obct1vvhebt9nupvlxv0sc&st=58amsq9d&dl=1)**
 
 **Install Instructions:**
 ------------------------------------
