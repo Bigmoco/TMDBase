@@ -32,7 +32,7 @@ description="A Bingie skin build"
 
 name="Bingie BETA Build"
 version="2.0.0"
-url="https://www.dropbox.com/scl/fi/gc94eete3vm0481ws74kh/bgbeta5.zip?rlkey=1yk484pgo5w7se46mvhynfds5&st=dnb9l1tb&dl=1"
+url="https://www.dropbox.com/scl/fi/o89imvz0t6z72vv4trm07/bgbasef.zip?rlkey=vngx920c9ajpx0j7ps3lwy0f4&st=g41meucz&dl=1"
 minor="http://"
 gui="http://"
 kodi="19.5"
