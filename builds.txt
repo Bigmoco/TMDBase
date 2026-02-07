@@ -44,7 +44,7 @@ adult="no"
 info="http://"
 description="This is a BETA build running off Bingie 2.0.2, I am still testing it so some features may be broken or missing...install with this in mind"
 
-name="Arctic Fuse 3 BETA"
+name="Arctic Fuse 3 BETA Build"
 version="3.1.16"
 url="https://www.dropbox.com/scl/fi/fpevob98trqxbhoxvipoj/af3base6.zip?rlkey=lc523a7yok95gh67p42zlenoh&st=ol1cf83x&dl=1"
 minor="http://"
