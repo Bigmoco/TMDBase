@@ -46,7 +46,7 @@ description="This is a BETA build running off Bingie 2.0.2, I am still testing i
 
 name="Welcome"
 version="1.0"
-url="https://www.dropbox.com/"
+url="https://www.dropbox.com/wompwomp"
 minor="http://"
 gui="http://"
 kodi="21.2"
