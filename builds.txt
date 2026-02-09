@@ -46,7 +46,7 @@ description="This is a BETA build running off Bingie 2.0.2, I am still testing i
 
 name="Arctic Fuse 3 !BETA! Build"
 version="3.1.17"
-url="https://www.dropbox.com/scl/fi/oxxurg7vvswgg6pm49hjp/af3base7.zip?rlkey=xb39n0nosqh4ttk8ud6ozaefc&st=ojhp605e&dl=1"
+url="https://www.dropbox.com/scl/fi/ndrhg815bxha4sacpqfbl/af3base7.zip?rlkey=yuo8cwrvd9xgeaor0ku6red7w&st=rceqp5zo&dl=1"
 minor="http://"
 gui="http://"
 kodi="19.5"
