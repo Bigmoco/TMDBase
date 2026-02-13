@@ -46,10 +46,10 @@ description="This is a BETA build running off Bingie 2.0.2, I am still testing i
 
 name="Arctic Fuse 3 !BETA! Build"
 version="3.1.17"
-url="https://www.dropbox.com/scl/fi/fsdmt6edr3u1irjg9p16s/af3base7.zip?rlkey=o5kfvzk9i1zhj8uefksrwfagx&st=sly26csv&dl=1"
+url="https://www.dropbox.com/scl/fi/fsdmt6edr3u1irjg9p16s/af3base7.zip?rlkey=o5kfvzk9i1zhj8uefksrwfagx&st=sly26csv&dl=0"
 minor="http://"
 gui="http://"
-kodi="19.5"
+kodi="21.2"
 theme="http://"
 icon="https://i.imgur.com/YByUAoM.png"
 fanart="https://i.imgur.com/WsH7tBz.jpeg"
