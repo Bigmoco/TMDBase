@@ -4,7 +4,7 @@ zip="url.to.wizard"
 
 name="Arctic Fuse 3 Build"
 version="1"
-url="https://www.dropbox.com/scl/fi/iomuj5faj125rwcdxn63v/af3basev1.zip?rlkey=53kjygvu8qv46raa0y766yaey&st=ohdn528k&dl=1"
+url="https://www.dropbox.com/scl/fi/laz54qvl1g8dxy8pgbs8l/af3base222.zip?rlkey=b3jdw82kqnzbl9cjssad1i4y3&st=k97n2qiw&dl=1"
 minor="http://"
 gui="http://"
 kodi="19.5"
